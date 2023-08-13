@@ -8,8 +8,8 @@ there is, to find it.
 
 This repository provides a detailed explanation of the k-Clique problem.
 In this repository, one can find;
--- driver code for brute force and heuristic algorithms
--- detailed explanations of both of the algorithms
--- experimental analysis report of perfomance and quality testing
+- [x] driver code for brute force and heuristic algorithms
+- [x] detailed explanations of both of the algorithms
+- [x] experimental analysis report of perfomance and quality testing
 
 ![image](https://github.com/kaanadalilar/CS301-Algorithms-k_Clique_Problem/assets/115321382/e60266b8-161e-4467-8fd3-d0b10c4a731f)
