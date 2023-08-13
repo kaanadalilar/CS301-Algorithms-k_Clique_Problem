@@ -1,6 +1,7 @@
 <h1 align="center"> k-Clique Problem </h1>
 
-Definition: Clique is a problem in graph theory that checks whether there is a group of vertices in an
+#### Definition: 
+Clique is a problem in graph theory that checks whether there is a group of vertices in an
 undirected graph in which they are all connected to one another. In other words, it asks if there is
 a subgraph of size k (where k is an input) that all the vertices are connected to every other vertex
 in that subgraph. So basically it aims to check whether there is a clique of a given size and if
